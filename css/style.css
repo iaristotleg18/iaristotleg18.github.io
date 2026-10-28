@@ -103,7 +103,7 @@ ul,ol{list-style:none}
 .pop[hidden]{display:none}
 .pop.show{opacity:1;transform:none}
 .pop-t{font-weight:700;font-size:15px;letter-spacing:-.01em}
-.pop-b{margin-top:4px;font-size:13.5px;line-height:1.4;color:var(--mut)}
+.pop-b{margin-top:0;font-size:14px;line-height:1.4;color:var(--text)}
 .pop-b a{color:var(--text)}
 .pop-a{margin-top:12px;display:none;gap:16px;align-items:center;font-size:13.5px}
 .pop-b a,.pop-a a,.pop-x{font:inherit;font-weight:600;color:var(--text);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px;background:none;border:0;padding:0;cursor:pointer}
